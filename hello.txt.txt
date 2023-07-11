@@ -1,2 +1,4 @@
 Hello,
 Name-Payash Agarwal
+Age- 24
+Sex-Male
